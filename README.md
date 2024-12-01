@@ -21,7 +21,7 @@
 
 1. 下載或克隆專案到本地：
 ```bash
-git clone [repository_url]
+git clone [[repository_url]](https://github.com/sainitutu/AI_picture_display_website_python.git)
 ```
 
 2. 執行 start.bat：

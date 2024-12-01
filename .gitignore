@@ -1,0 +1,53 @@
+# 資料庫
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# 上傳的檔案
+assets/uploads/*
+!assets/uploads/.gitkeep
+assets/thumbnails/*
+!assets/thumbnails/.gitkeep
+
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE 和編輯器檔案
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 環境設定
+.env
+.env.*
+!.env.example
+
+# 保留空目錄
+!.gitkeep
